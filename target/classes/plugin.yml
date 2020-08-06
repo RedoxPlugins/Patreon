@@ -1,0 +1,7 @@
+name: Patreon
+version: 0.0.1-ALPHA
+main: com.github.redoxplugins.patreon.Patreon
+api-version: 1.16
+authors: [MichielArkema, Olivio]
+description: Fully integrate your minecraft server with patreon.
+website: https://github.com/RedoxPlugins

@@ -1,0 +1,7 @@
+  name: Patreon
+  description: Integrate patreon into your Minecraft server.
+  main: com.github.redoxplugins.patreon.Patreon
+  authors:
+      -Michiel Arkema
+      - Olivio
+  version: 0.0.1-alpha
